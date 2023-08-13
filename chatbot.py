@@ -1,6 +1,3 @@
-pip install streamlit
-pip install nltk
-
 import os
 import nltk
 import ssl
